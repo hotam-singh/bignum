@@ -1,7 +1,7 @@
 {
-  "name": "@phaetonhq/bignum",
+  "name": "bignum",
   "description": "A browserify implementation of node-bignum",
-  "version": "1.3.1",
+  "version": "1.0.0",
   "keywords": [
     "arbitrary",
     "precision",
@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/PhaetonHQ/bignum"
+    "url": "https://github.com/hotam-singh/bignum"
   },
   "main": "bignum",
   "author": {
-    "name": "Luke Young",
-    "email": "luke@hydrantlabs.com"
+    "name": "Hotam Singh",
+    "email": "hotam.singh@oodlestechnologies.com"
   },
   "engines": {
     "node": "*"
@@ -35,8 +35,4 @@
   "dependencies": {
     "@types/node": "11.11.2"
   }
-
-,"_resolved": "https://registry.npmjs.org/@phaetonhq/bignum/-/bignum-1.3.1.tgz"
-,"_integrity": "sha512-q9+NvqbpmXOqpPmV8Y+XSEIUJFMZDGyfW6rkN9Ej3nzPb/qurY/Ic2UPTeTTaj8+q/bcw5JUwTb86hi7PIziDg=="
-,"_from": "@phaetonhq/bignum@1.3.1"
 }
